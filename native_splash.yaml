@@ -1,0 +1,12 @@
+flutter_native_splash:
+  # إعدادات مشتركة لكل المنصات
+  color: "#42a5f5"  # لون الخلفية
+  image: "assets/images/Logo.png"  # صورة الشعار
+  
+  # إعدادات أندرويد
+  android: true
+  android_gravity: center
+  
+  # إعدادات iOS
+  ios: true
+  ios_content_mode: center
